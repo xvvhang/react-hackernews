@@ -1,8 +1,7 @@
-# React + Vite
+# React Hacker News Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Hacker News clone built with react and Hacker News official API deployed on Vercel.
 
-Currently, two official plugins are available:
+[![Live Demo](./public/demo.svg)](https://react-hackernews-clone-xvvhang.vercel.app) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/xvvhang/react-hackernews-clone)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot](./public/Screenshot.png)
